@@ -1,6 +1,7 @@
 #  作品集 - 基本App啟動畫面流程製作
 
 ![avatar](/preview01.gif)
+<br>
 ![avatar](/preview02.png)
 ![avatar](/preview03.png)
 
